@@ -43,4 +43,4 @@ Libraries:
 Model:
   Sanction Impact Model=>GNN(Graph Neural Network)
   google/flan-t5-base=> hugginface transformers
-  Risk Assessment Model=> ML regression/classification model
+  Risk Assessment Model=> ML regression/classification model.
